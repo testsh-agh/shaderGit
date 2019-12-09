@@ -1,3 +1,3 @@
 #TestConflict
 
-#Edycja Conflict
+#Dziwny string do konfliktu
