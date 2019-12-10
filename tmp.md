@@ -1,3 +1,8 @@
 #TestConflict
 
-#Dziwny string do konfliktu
+
+#Edycja Conflict
+
+
+#edycja do ciekawych błędów Shader
+
